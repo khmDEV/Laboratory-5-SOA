@@ -30,7 +30,7 @@ Agustin Navarro Torres | 587570|[repo](https://github.com/SirBargus/Laboratory-5
 Alejandro Solanas Bonilla | 647647
 Christian García Artero | 597578 | [repo](https://github.com/christianjaka94/Laboratory-5-SOA)
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-5-SOA)
-Marcos Ruiz García | 648045
+Marcos Ruiz García | 648045 | [repo](https://github.com/marcosruiz/Laboratory-5-SOA)
 Óscar Meler Murillo | 608919 | [repo](https://github.com/oscarmeler/Laboratory-5-SOA)
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/Laboratory-5-SOA)

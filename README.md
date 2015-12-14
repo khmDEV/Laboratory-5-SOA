@@ -34,7 +34,7 @@ Marcos Ruiz García | 648045
 Óscar Meler Murillo | 608919 | [repo](https://github.com/oscarmeler/Laboratory-5-SOA)
 Aron Collados Torres | 626558
 Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/Laboratory-5-SOA)
-Rubén Gabás Celimendiz | 590738
+Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/PhyrionX/Laboratory-5-SOA)
 Daniel Forcén Esteban | 558471
 Ramón José Arellano Bitrián | 594040
 Daniel Uroz | 545338

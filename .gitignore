@@ -1,3 +1,5 @@
+/.idea
+/Laboratory-5-SOA.iml
 /bin/
 /build/
 .gradle
@@ -5,3 +7,9 @@
 .classpath
 .project
 .DS_Store
+.settings
+.gradle
+*.xml
+*.iml
+/.idea/
+*.properties

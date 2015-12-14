@@ -28,7 +28,7 @@ Adrián Moreno Jimeno | 631537 | [repo](https://github.com/Adriem/Laboratory-5-S
 Alberto Sabater Bailón | 546297 | [repo](https://github.com/asabater94/Laboratory-5-SOA) | UI and search functionalities improved | :gift:
 Agustin Navarro Torres | 587570|[repo](https://github.com/SirBargus/Laboratory-5-SOA)|Transform into Node.js and send tweets
 Alejandro Solanas Bonilla | 647647
-Christian García Artero | 597578
+Christian García Artero | 597578 | [repo](https://github.com/christianjaka94/Laboratory-5-SOA)
 Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Laboratory-5-SOA)
 Marcos Ruiz García | 648045
 Óscar Meler Murillo | 608919 | [repo](https://github.com/oscarmeler/Laboratory-5-SOA)

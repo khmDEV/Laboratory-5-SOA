@@ -37,6 +37,6 @@ Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/Laborato
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/PhyrionX/Laboratory-5-SOA)
 Daniel Forcén Esteban | 558471
 Ramón José Arellano Bitrián | 594040
-Daniel Uroz | 545338
+Daniel Uroz | 545338 | [repo](https://github.com/uZetta27/Laboratory-5-SOA)
 Jorge Berdún Udina | 591454 | [repo] (https://github.com/nerok96/Laboratory-5-SOA)
 Guillermo Pérez García | 610382 | [repo](https://github.com/guillepg/Laboratory-5-SOA)

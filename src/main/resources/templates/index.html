@@ -9,7 +9,7 @@
  id="Viewport" name="viewport" />
 <!-- Bootstrap -->
 <link rel="stylesheet" media="screen"
- href="http://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" 
+ href="http://netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"
  th:href="@{/webjars/bootstrap/3.3.1/css/bootstrap.min.css}"/>
 <!-- Optional theme -->
 <link rel="stylesheet"
@@ -61,6 +61,10 @@ th:src="@{/webjars/jquery/2.1.3/jquery.min.js}"></script>
    <div class="row">
     <input type="text" class="form-control" id="q" name="q"
      placeholder="Escribe algo que quieras buscar"/>
+     <input type="text" class="form-control" id="u" name="u"
+      placeholder="Autor"/>
+    <input type="text" class="form-control" id="m" name="m"
+       placeholder="Número máximo de tweets"/>
    </div>
    <div class="row">&nbsp;</div>
    <div class="row">
@@ -68,7 +72,7 @@ th:src="@{/webjars/jquery/2.1.3/jquery.min.js}"></script>
    </div>
   </form>
   <div class="row">&nbsp;</div>
-  <div id="resultsBlock"></div>  
+  <div id="resultsBlock"></div>
  </div>
 </body>
 </html>
